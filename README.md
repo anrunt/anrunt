@@ -1,4 +1,4 @@
-### Hi, I’m Jan 👋
+### Hi, I’m Jan
 
 I’m a backend engineer building APIs, developer tools, and web applications with **TypeScript, Rust, and Python**.
 
